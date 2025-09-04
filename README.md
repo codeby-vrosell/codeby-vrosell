@@ -50,7 +50,7 @@
 
 ## Connect with Me
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/codeby.vrosell@gmail.com">
+  <a href="mailto:codeby.vrosell@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://x.com/codeby_vrosell">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
