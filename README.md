@@ -14,7 +14,7 @@
 - 🕹️ Focused on **game programming**  
 - 💡 Passionate about **gameplay programming, optimization, and clean code**  
 - 🌱 Always learning new technologies and improving my craft  
-- 🎨 Interested in the balance between **art and technology** in games  
+- 🎨 Comprometidos con ofrecer experiencias de juego fluidas, receptivas y divertidas. 
 
 ## Tech Stack
 
