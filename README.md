@@ -10,9 +10,16 @@
 
 - My goal is to create **innovative and fluid experiences**, where **technique and fun** are in perfect harmony.
 
+## Portfolio
+#### *You can check out my projects and featured work on my portfolio website:*
+- [🌐 | vrosell.com](https://your-portfolio.com)
+
+
+
+
 ## About Me
 - 🕹️ Focused on **game programming**  
-- 💡 Passionate about **gameplay programming, optimization, and clean code**  
+- 💡 Passionate about writing **high-quality code**
 - 🌱 Always learning new technologies and improving my craft  
 - ⚡ Committed to delivering smooth, responsive, and fun gaming experiences
 
@@ -49,13 +56,9 @@
 </p>
 
 ## Connect with Me
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a href="https://x.com/codeby_vrosell">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/v-rosell/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+#### *You can also reach me on other platforms:*
+- [📧 | codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
+- [✖️ | @codeby_vrosell](https://x.com/codeby_vrosell)         
+- [💼 | @codeby_vrosell](https://www.linkedin.com/in/v-rosell)
+
 </p>
