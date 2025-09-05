@@ -1,4 +1,4 @@
-# Hey, I’m Víctor Rosell Gascó 👋 
+# 👋 Hey, I’m Víctor Rosell Gascó
 
 ### I’m a game programmer.  
 - I face every project with **enthusiasm**, **creativity**, and **dedication**.
@@ -51,7 +51,7 @@
 </p>
 
 ## Connect with Me
-#### *Puedes ponerte en contacto conmigo aquí:*
+#### *You can get in touch with me here:*
 - [📧 | Gmail - codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
 - [✖️ | X - @codeby_vrosell](https://x.com/codeby_vrosell)         
 - [💼 | LinkedIn - @codeby-vrosell](https://www.linkedin.com/in/v-rosell)
