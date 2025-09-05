@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Víctor+Rosell+Gascó+-+Video+Game+Programmer" alt="Banner Víctor Rosell Gascó"/>
-</p>
-
 # Hey, I’m Víctor Rosell Gascó 👋 
 
 ### I’m a game programmer.  
