@@ -52,8 +52,8 @@
 
 ## Connect with Me
 #### *You can also reach me on other platforms:*
-- [📧 | codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
-- [✖️ | @codeby_vrosell](https://x.com/codeby_vrosell)         
-- [💼 | @codeby_vrosell](https://www.linkedin.com/in/v-rosell)
+- [📧 | Gmail - codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
+- [✖️ | Twitter - @codeby_vrosell](https://x.com/codeby_vrosell)         
+- [💼 | LinkedIn - @codeby_vrosell](https://www.linkedin.com/in/v-rosell)
 
 </p>
