@@ -54,6 +54,6 @@
 #### *You can also reach me on other platforms:*
 - [📧 | Gmail - codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
 - [✖️ | Twitter - @codeby_vrosell](https://x.com/codeby_vrosell)         
-- [💼 | LinkedIn - @codeby_vrosell](https://www.linkedin.com/in/v-rosell)
+- [💼 | LinkedIn - @codeby-vrosell](https://www.linkedin.com/in/v-rosell)
 
 </p>
