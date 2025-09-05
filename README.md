@@ -54,6 +54,6 @@
 #### *You can get in touch with me here:*
 - [📧 | Gmail - codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
 - [✖️ | X - @codeby_vrosell](https://x.com/codeby_vrosell)         
-- [💼 | LinkedIn - @codeby-vrosell](https://www.linkedin.com/in/v-rosell)
+- [💼 | LinkedIn - @vrosell](https://www.linkedin.com/in/v-rosell)
 
 </p>
