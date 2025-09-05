@@ -53,7 +53,7 @@
 ## Connect with Me
 #### *Puedes ponerte en contacto conmigo aquí:*
 - [📧 | Gmail - codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
-- [✖️ | Twitter - @codeby_vrosell](https://x.com/codeby_vrosell)         
+- [✖️ | X - @codeby_vrosell](https://x.com/codeby_vrosell)         
 - [💼 | LinkedIn - @codeby-vrosell](https://www.linkedin.com/in/v-rosell)
 
 </p>
