@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Víctor Rosell Gascó Banner" />
+</p>
+
 # 👋 Hey, I’m Víctor Rosell Gascó
 
 ### I’m a game programmer.  
