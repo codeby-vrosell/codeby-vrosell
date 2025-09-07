@@ -11,7 +11,7 @@
 
 ## Portfolio
 #### *You can check out my projects and featured work on my portfolio website:*
-- [🌐 | codebyvrosell.com](https://your-portfolio.com)
+- [🌐 | Portfolio - codebyvrosell.com](https://your-portfolio.com)
 
 
 
@@ -59,6 +59,6 @@
 #### *You can get in touch with me here:*
 - [📧 | Gmail - codeby.vrosell@gmail.com](https://mail.google.com/mail/?view=cm&to=codeby.vrosell@gmail.com)      
 - [✖️ | X - @codeby_vrosell](https://x.com/codeby_vrosell)         
-- [💼 | LinkedIn - @vrosell](https://www.linkedin.com/in/v-rosell)
+- [💼 | LinkedIn - in/vrosell](https://www.linkedin.com/in/v-rosell)
 
 </p>
