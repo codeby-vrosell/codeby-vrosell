@@ -11,7 +11,7 @@
 
 ## Portfolio
 #### *You can check out my projects and featured work on my portfolio website:*
-- [🌐 | Portfolio - codebyvrosell.com](https://your-portfolio.com)
+- [🌐 | Portfolio - codebyvrosell.com](https://codebyvrosell.com)
 
 
 
