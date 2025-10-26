@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_codeby-vrosell.jpg" alt="Víctor Rosell Gascó Banner" />
+  <img src="Assets/banner.jpg" alt="Víctor Rosell Gascó Banner" />
 </p>
 
 # 👋 Hey, I’m Víctor Rosell Gascó
